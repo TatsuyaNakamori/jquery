@@ -1,4 +1,5 @@
 define( [
+	"ローカルで追記",
 	"./core",
 	"./var/document",
 	"./var/isFunction",
